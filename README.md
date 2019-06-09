@@ -1,6 +1,6 @@
 # Open University Dataset
 
-In this notebook, I will discuss how a number of algorithms were investigated to predict whether a student would pass an assessment based on the number of interactions with the course material.
+In this notebook, I will discuss how a number of algorithms were investigated to predict whether a student would pass an assessment based on the number of interactions with the course material. The code that was created can be found in the "Open.ipynb" file.
 
 After checking whether there were any missing values, the first step was familiarising myself with the data in the Dataset. This could potentially allow me to better optimise my final algorithm.
 
